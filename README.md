@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Calculadora de IMC 🧮
 
 Esse projeto é uma calculadora de IMC. Coloque sua altura e peso e o resultado irá mostrar seu IMC. 
 
