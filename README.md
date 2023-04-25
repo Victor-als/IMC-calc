@@ -20,4 +20,4 @@ E para rodar:
 
 ### Imagem da tela
 
-
+![CalculadoraIMC](https://user-images.githubusercontent.com/66024677/234359978-0886954b-74ad-4628-8650-5257e39a489d.png)
